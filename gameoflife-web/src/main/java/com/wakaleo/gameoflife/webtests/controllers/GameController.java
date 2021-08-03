@@ -12,12 +12,12 @@ import org.springframework.web.servlet.ModelAndView;
 import com.wakaleo.gameoflife.domain.Universe;
 
  /**
- * Wakaleo Consulting - John Ferguson Smart
  * Game of life, demonstration application for Jenkins: The Definitive Guide
  *
  * GameController.java
  * Controller to navigate the buttons on the game pages
  * new commit on github-testing
+ * new commit on me
  */
 @Controller
 @RequestMapping("/game")
